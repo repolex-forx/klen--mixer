@@ -1,0 +1,11 @@
+{
+  "org": "klen",
+  "repo": "mixer",
+  "versions": [
+    {
+      "commit": "431ca2756af5571efc4d08d743fa8ab2a8619183",
+      "tag": "7.2.2",
+      "parsed_at": "2026-10-19T12:25:15.874525+00:00"
+    }
+  ]
+}
