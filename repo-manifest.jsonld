@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/klen/mixer/commit/431ca2756af5571efc4d08d743fa8ab2a8619183",
       "git:hexsha": "431ca2756af5571efc4d08d743fa8ab2a8619183",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "7.2.2"
     },
     {
